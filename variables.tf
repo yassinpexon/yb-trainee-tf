@@ -1,4 +1,4 @@
 variable "resource_group_name" {
-  default = "yassin-tfgroupname"
+  default = "yassin-test-gru"
 }
 

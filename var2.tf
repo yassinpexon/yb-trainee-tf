@@ -1,4 +1,4 @@
 variable "testname" {
-  default = "testname"
+  default = "yassintestgrouppi"
 }
 
